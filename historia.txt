@@ -9,3 +9,5 @@ En estas nueva lineas vamos a agregar unos cuantos numeros
 546
 
 vamos a agregar una suma sensilla 2+2=4
+en esta historia alterna vamos a agregar tambien una multiplicacion
+3*3=9
