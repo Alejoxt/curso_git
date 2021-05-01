@@ -9,5 +9,5 @@ En estas nueva lineas vamos a agregar unos cuantos numeros
 546
 
 vamos a agregar una suma sensilla 2+2=4
-Ya no tenemos mas una historia alterna
+Ya no tenemos menos una historia alterna
 3*3=9
